@@ -4,6 +4,8 @@ Mewnala Energy Workzone
 
 # Installation Instructions
 
+You can just copy this bash script and paste it into your terminal!
+
 ```bash
 # Install uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
